@@ -1,4 +1,4 @@
-# For Repetier
+# How to configure SH1106 I2C display in Repetier-Firmware
 
 What I was able to find in web:
 
