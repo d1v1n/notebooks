@@ -390,7 +390,7 @@ And last but not least lets connect encoder according to pinout for Repetier wit
 
 Proof pics in the end...
 ![repetier-logo](repetier-simple_oled_controller_attachments/01-repetier-logo.jpg  "repetier-logo")
-![repetier-main](picsrepetier-simple_oled_controller_attachments/02-repetier-main.jpg  "repetier-main")
+![repetier-main](repetier-simple_oled_controller_attachments/02-repetier-main.jpg  "repetier-main")
 ![repetier-menu](repetier-simple_oled_controller_attachments/03-repetier-menu.jpg  "repetier-menu")
 
 PS.
